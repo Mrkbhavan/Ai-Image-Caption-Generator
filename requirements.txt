@@ -1,0 +1,6 @@
+transformers>=4.36.0
+torch
+gradio>=4.0
+pillow
+emoji
+deep-translator
